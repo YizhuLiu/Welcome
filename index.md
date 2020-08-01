@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome
+Hello everybody. I'm Yizhu, a phd student in the Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU). I am advised by Prof. [Kenny Zhu](http://www.cs.sjtu.edu.cn/~kzhu/) and work in the Advanced Data And Programming Technology Lab (ADAPT-Lab).
 
-You can use the [editor on GitHub](https://github.com/YizhuLiu/Welcome/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I work on natural language processing (NLP) and focus on automatic summarization.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Publication
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YizhuLiu/Welcome/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*Yizhu Liu*, Zhiyi Luo and Kenny Zhu 
+Controlling Length in Abstractive Summarization Using a Convolutional Neural Network
+[[Paper](https://www.aclweb.org/anthology/D18-1444/)] [[Code](https://github.com/YizhuLiu/sumlen)]
