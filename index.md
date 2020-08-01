@@ -7,6 +7,7 @@ I work on natural language processing (NLP) and focus on automatic summarization
 
 * **Yizhu Liu**, Zhiyi Luo and Kenny Zhu 
 
-  Controlling Length in Abstractive Summarization Using a Convolutional Neural Network
+  Controlling Length in Abstractive Summarization Using a Convolutional Neural Network *In Proceedings of the 2018 Conference on Empirical Methods in Natural Language
+Processing (EMNLP 2018)*
 
   [[Paper](https://www.aclweb.org/anthology/D18-1444/)] [[Code](https://github.com/YizhuLiu/sumlen)]
