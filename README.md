@@ -11,7 +11,7 @@ Controlling Length in Abstractive Summarization Using a Convolutional Neural Net
 
 [[Paper](https://www.aclweb.org/anthology/D18-1444/)] [[Code](https://github.com/YizhuLiu/sumlen)]
 
-*Qi Jia*, Yizhu Liu, Siyu Ren, Kenny Q Zhu and Haifeng Tang
+Qi Jia, *Yizhu Liu*, Siyu Ren, Kenny Q Zhu and Haifeng Tang
 
 Multi-turn Response Selection using Dialogue Dependency Relations. EMNLP 2020
 
